@@ -1,0 +1,13 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Tabuada\bin\Debug\netcoreapp3.1\Repeticao-Tabuada.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Tabuada\bin\Debug\netcoreapp3.1\Repeticao-Tabuada.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Tabuada\bin\Debug\netcoreapp3.1\Repeticao-Tabuada.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Tabuada\bin\Debug\netcoreapp3.1\Repeticao-Tabuada.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Tabuada\bin\Debug\netcoreapp3.1\Repeticao-Tabuada.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Tabuada\bin\Debug\netcoreapp3.1\Repeticao-Tabuada.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Tabuada\obj\Debug\netcoreapp3.1\Repeticao-Tabuada.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Tabuada\obj\Debug\netcoreapp3.1\Repeticao-Tabuada.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Tabuada\obj\Debug\netcoreapp3.1\Repeticao-Tabuada.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Tabuada\obj\Debug\netcoreapp3.1\Repeticao-Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Tabuada\obj\Debug\netcoreapp3.1\Repeticao-Tabuada.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Tabuada\obj\Debug\netcoreapp3.1\Repeticao-Tabuada.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Tabuada\obj\Debug\netcoreapp3.1\Repeticao-Tabuada.genruntimeconfig.cache
